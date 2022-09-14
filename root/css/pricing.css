@@ -41,6 +41,7 @@
     overflow: hidden;
     color: #2d2d2d;
     transition: .3s linear;
+    gap: 1.0rem;
   }
   
   .pricing-card-header{
