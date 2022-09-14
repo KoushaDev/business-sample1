@@ -23,7 +23,6 @@
   }
   
   .pricing-table{
-    margin-top: 70px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
