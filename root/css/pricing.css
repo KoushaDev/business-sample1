@@ -35,13 +35,11 @@
     max-width: 360px;
     background-color: #fff;
     margin: 20px 10px;
-    margin-top: 70px;
     text-align: center;
     cursor: pointer;
     overflow: hidden;
     color: #2d2d2d;
     transition: .3s linear;
-    gap: 1.0rem;
   }
   
   .pricing-card-header{
